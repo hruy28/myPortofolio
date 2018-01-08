@@ -1,0 +1,6 @@
+{
+  "name":"A portofolio page",
+  "description":"An overview of my education and experience",
+  "repository":"https://github.com/hruy28/myPortofolio.git",
+  "keywords":["node", "express", "static"]
+}

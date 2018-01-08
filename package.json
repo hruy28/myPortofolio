@@ -1,0 +1,26 @@
+{
+  "name": "myportofolio",
+  "version": "1.0.0",
+  "description": "An overview of my education and experience",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hruy28/myPortofolio.git"
+  },
+  "author": "Hruy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hruy28/myPortofolio/issues"
+  },
+  "homepage": "https://github.com/hruy28/myPortofolio#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  },
+  "engines": {
+     "node": "8.9.0"
+  }
+}
